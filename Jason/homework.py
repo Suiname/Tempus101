@@ -1,0 +1,1 @@
+value = 'some python homework'
