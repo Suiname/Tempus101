@@ -15,3 +15,5 @@ def toonify(accent, sentence):
     else:
         result = sentence
     return result
+
+print(toonify("daffy", "so you smell like sausage"))
